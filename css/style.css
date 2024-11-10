@@ -1,3 +1,9 @@
+*{
+    margin :0;
+    padding: 0;
+}
+
+
 h1{
     Color:red;
 }
@@ -5,6 +11,3 @@ h1{
  main section h2{
     color:blue
 }
-
-
-
